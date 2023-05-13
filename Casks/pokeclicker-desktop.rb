@@ -6,5 +6,5 @@ cask "pokeclicker-desktop" do
   desc "Electron desktop client for Pokeclicker"
   homepage "https://github.com/RedSparr0w/Pokeclicker-desktop"
 
-  app "Pokeclicker-desktop.app"
+  app "PokéClicker.app"
 end
